@@ -1,0 +1,14 @@
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\bin\Debug\net8.0\MyDNS.exe
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\bin\Debug\net8.0\MyDNS.deps.json
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\bin\Debug\net8.0\MyDNS.runtimeconfig.json
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\bin\Debug\net8.0\MyDNS.dll
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\bin\Debug\net8.0\MyDNS.pdb
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.GeneratedMSBuildEditorConfig.editorconfig
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.AssemblyInfoInputs.cache
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.AssemblyInfo.cs
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.csproj.CoreCompileInputs.cache
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.dll
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\refint\MyDNS.dll
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.pdb
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\MyDNS.genruntimeconfig.cache
+E:\2251120302_LeTungLam_BaiTap02\Project3\MyDNS\obj\Debug\net8.0\ref\MyDNS.dll
